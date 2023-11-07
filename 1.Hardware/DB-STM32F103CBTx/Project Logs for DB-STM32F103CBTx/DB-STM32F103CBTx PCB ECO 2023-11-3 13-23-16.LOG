@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PA0 Pin=*6-5
+Removed Pin From Net: NetName=PA1 Pin=*6-6
+Removed Pin From Net: NetName=PA2 Pin=*6-7
+Removed Pin From Net: NetName=PA15 Pin=*6-8
+Removed Pin From Net: NetName=PB3 Pin=*6-9
+Removed Pin From Net: NetName=PB4 Pin=*6-10
+Removed Pin From Net: NetName=PB5 Pin=*6-11
+Removed Pin From Net: NetName=PC13 Pin=*6-12
+Removed Pin From Net: NetName=PC14 Pin=*6-13
+Removed Pin From Net: NetName=PC15 Pin=*6-14
+Added Pin To Net: NetName=PA15 Pin=*6-5
+Added Pin To Net: NetName=PB3 Pin=*6-6
+Added Pin To Net: NetName=PB4 Pin=*6-7
+Added Pin To Net: NetName=PB5 Pin=*6-8
+Added Pin To Net: NetName=PC13 Pin=*6-9
+Added Pin To Net: NetName=PC14 Pin=*6-10
+Added Pin To Net: NetName=PC15 Pin=*6-11
+Added Pin To Net: NetName=PA0 Pin=*6-12
+Added Pin To Net: NetName=PA1 Pin=*6-13
+Added Pin To Net: NetName=PA2 Pin=*6-14
+Added Room: Name=main

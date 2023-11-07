@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=5V Pin=*6-1
+Removed Pin From Net: NetName=SWDIO Pin=*6-2
+Removed Pin From Net: NetName=SWCLK Pin=*6-3
+Removed Pin From Net: NetName=GND Pin=*6-4
+Removed Pin From Net: NetName=PA15 Pin=*6-5
+Removed Pin From Net: NetName=PB3 Pin=*6-6
+Removed Pin From Net: NetName=PB4 Pin=*6-7
+Removed Pin From Net: NetName=PB5 Pin=*6-8
+Removed Pin From Net: NetName=PC13 Pin=*6-9
+Removed Pin From Net: NetName=PC14 Pin=*6-10
+Removed Pin From Net: NetName=PC15 Pin=*6-11
+Removed Pin From Net: NetName=PA0 Pin=*6-12
+Removed Pin From Net: NetName=PA1 Pin=*6-13
+Removed Pin From Net: NetName=PA2 Pin=*6-14
+Removed Pin From Net: NetName=3v3 Pin=*7-1
+Removed Pin From Net: NetName=GND Pin=*7-2
+Removed Pin From Net: NetName=UART1_TX Pin=*7-3
+Removed Pin From Net: NetName=UART1_RX Pin=*7-4
+Removed Pin From Net: NetName=PB15 Pin=*7-5
+Removed Pin From Net: NetName=PB14 Pin=*7-6
+Removed Pin From Net: NetName=PB13 Pin=*7-7
+Removed Pin From Net: NetName=PB1 Pin=*7-8
+Removed Pin From Net: NetName=PB0 Pin=*7-9
+Removed Pin From Net: NetName=PA7 Pin=*7-10
+Removed Pin From Net: NetName=PA6 Pin=*7-11
+Removed Pin From Net: NetName=PA5 Pin=*7-12
+Removed Pin From Net: NetName=PA4 Pin=*7-13
+Removed Pin From Net: NetName=PA3 Pin=*7-14
+Removed Member From Class: ClassName=main Member=*7
+Change Component Footprint: Designator=*6 Old Footprint=HDR2.54-14P New Footprint=HDR2.54-15P
+Change Component Comment : Designator=*6 Old Comment=HDR2.54-14P New Comment=HDR2.54-15P
+Change Component Designator: OldDesignator=*4 NewDesignator=*3
+Change Component Designator: OldDesignator=*5 NewDesignator=*4
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Added Component: Designator=*5(HDR2.54-15P)
+Added Pin To Net: NetName=5V Pin=*5-1
+Added Pin To Net: NetName=SWDIO Pin=*5-2
+Added Pin To Net: NetName=SWCLK Pin=*5-3
+Added Pin To Net: NetName=GND Pin=*5-4
+Added Pin To Net: NetName=PA15 Pin=*5-5
+Added Pin To Net: NetName=PB3 Pin=*5-6
+Added Pin To Net: NetName=PB4 Pin=*5-7
+Added Pin To Net: NetName=PB5 Pin=*5-8
+Added Pin To Net: NetName=PC13 Pin=*5-9
+Added Pin To Net: NetName=PC14 Pin=*5-10
+Added Pin To Net: NetName=PC15 Pin=*5-11
+Added Pin To Net: NetName=PA0 Pin=*5-12
+Added Pin To Net: NetName=PA1 Pin=*5-13
+Added Pin To Net: NetName=PA2 Pin=*5-14
+Added Pin To Net: NetName=GND Pin=*5-15
+Added Pin To Net: NetName=3v3 Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-2
+Added Pin To Net: NetName=UART1_TX Pin=*6-3
+Added Pin To Net: NetName=UART1_RX Pin=*6-4
+Added Pin To Net: NetName=PB15 Pin=*6-5
+Added Pin To Net: NetName=PB14 Pin=*6-6
+Added Pin To Net: NetName=PB13 Pin=*6-7
+Added Pin To Net: NetName=PB1 Pin=*6-8
+Added Pin To Net: NetName=PB0 Pin=*6-9
+Added Pin To Net: NetName=PA7 Pin=*6-10
+Added Pin To Net: NetName=PA6 Pin=*6-11
+Added Pin To Net: NetName=PA5 Pin=*6-12
+Added Pin To Net: NetName=PA4 Pin=*6-13
+Added Pin To Net: NetName=PA3 Pin=*6-14
+Added Pin To Net: NetName=GND Pin=*6-15
+Change Net Name : Old Net Name=Net*4_2 New Net Name=Net*3_2
+Change Net Name : Old Net Name=Net*5_1 New Net Name=Net*4_1
+Change Net Name : Old Net Name=Net*5_3 New Net Name=Net*4_3
+Added Member To Class: ClassName=main Member=Component *5 HDR2.54-15P
+Added Room: Name=main

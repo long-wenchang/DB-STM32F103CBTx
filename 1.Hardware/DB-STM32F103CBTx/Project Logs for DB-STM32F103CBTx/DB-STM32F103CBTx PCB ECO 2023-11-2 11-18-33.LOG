@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=UART1_TX Pin=*1-2
+Removed Pin From Net: NetName=UART1_RX Pin=*1-3
+Removed Pin From Net: NetName=GND Pin=*1-4
+Removed Pin From Net: NetName=SWDIO Pin=*1-5
+Removed Pin From Net: NetName=SWCLK Pin=*1-6
+Change Component Footprint: Designator=*3 Old Footprint=SH1.0-2P New Footprint=SH1.0-5P
+Change Component Footprint: Designator=*1 Old Footprint=SH1.0-6P New Footprint=SH1.0-3P
+Change Component Comment : Designator=*3 Old Comment=SH1.0-2P New Comment=SH1.0-5P
+Change Component Comment : Designator=*1 Old Comment=SH1.0-6P New Comment=SH1.0-3P
+Added Pin To Net: NetName=SWDIO Pin=*1-2
+Added Pin To Net: NetName=SWCLK Pin=*1-3
+Added Pin To Net: NetName=GND Pin=*3-3
+Added Pin To Net: NetName=UART1_TX Pin=*3-4
+Added Pin To Net: NetName=UART1_RX Pin=*3-5
+Added Member To Class: ClassName=main Member=Component *1 SH1.0-3P
+Added Member To Class: ClassName=main Member=Component *3 SH1.0-5P
+Added Member To Class: ClassName=main Member=Component C4 10uF
+Added Member To Class: ClassName=main Member=Component C6 10nF
+Added Member To Class: ClassName=main Member=Component C8 0.1uF
+Added Member To Class: ClassName=main Member=Component C10 10uF
+Added Member To Class: ClassName=main Member=Component C11 0.1uF
+Added Member To Class: ClassName=main Member=Component C12 10nF
+Added Member To Class: ClassName=main Member=Component C13 10uF
+Added Member To Class: ClassName=main Member=Component C14 2.2nF
+Added Member To Class: ClassName=main Member=Component C15 0.1uF
+Added Member To Class: ClassName=main Member=Component R4 22R
+Added Member To Class: ClassName=main Member=Component R6 22R
+Added Member To Class: ClassName=main Member=Component R7 2K
+Added Member To Class: ClassName=main Member=Component R8 10K
+Added Room: Name=main

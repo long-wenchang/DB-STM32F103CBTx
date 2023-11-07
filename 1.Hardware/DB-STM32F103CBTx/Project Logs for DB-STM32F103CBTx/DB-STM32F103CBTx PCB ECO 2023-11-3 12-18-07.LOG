@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=*1-1
+Removed Pin From Net: NetName=SWDIO Pin=*1-2
+Removed Pin From Net: NetName=SWCLK Pin=*1-3
+Removed Pin From Net: NetName=CAN_H Pin=*3-1
+Removed Pin From Net: NetName=CAN_L Pin=*3-2
+Removed Pin From Net: NetName=GND Pin=*3-3
+Removed Pin From Net: NetName=UART1_TX Pin=*3-4
+Removed Pin From Net: NetName=UART1_RX Pin=*3-5
+Removed Member From Class: ClassName=main Member=*1
+Removed Member From Class: ClassName=main Member=*3
+Added Component: Designator=*(SH1.0-2P)
+Added Pin To Net: NetName=CAN_H Pin=*-1
+Added Pin To Net: NetName=CAN_L Pin=*-2
+Added Member To Class: ClassName=main Member=Component * SH1.0-2P
+Added Room: Name=main
