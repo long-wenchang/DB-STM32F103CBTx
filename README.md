@@ -7,13 +7,13 @@
 
 
 
-![0](5.Docs\1.Images\0.png)
+![0](5.Docs/1.Images/0.png)
 
-![1](5.Docs\1.Images\1.png)
+![1](5.Docs/1.Images/1.png)
 
-![2](5.Docs\1.Images\2.png)
+![2](5.Docs/1.Images/2.png)
 
-![3](5.Docs\1.Images\3.png)
+![3](5.Docs/1.Images/3.png)
 
 
 
